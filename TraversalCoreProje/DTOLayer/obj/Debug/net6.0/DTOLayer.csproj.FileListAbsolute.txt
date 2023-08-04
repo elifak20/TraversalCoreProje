@@ -1,0 +1,12 @@
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.deps.json
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.dll
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\bin\Debug\net6.0\DTOLayer.pdb
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.AssemblyReference.cache
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfoInputs.cache
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.AssemblyInfo.cs
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.csproj.CoreCompileInputs.cache
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.dll
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\refint\DTOLayer.dll
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\DTOLayer.pdb
+C:\Users\elifa\OneDrive\Masaüstü\Traversal\TraversalCoreProje\DTOLayer\obj\Debug\net6.0\ref\DTOLayer.dll
